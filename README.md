@@ -16,3 +16,5 @@ Instructions for use!
 - now upon refreshing the page and clicking the 'Load Events' button your finished event will no longer appear
 
 Have fun and enjoy!
+
+ps. I had to create a .nojekyll file for some reason to publish my page on github pages.
